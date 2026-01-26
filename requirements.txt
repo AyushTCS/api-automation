@@ -1,0 +1,7 @@
+requests
+pytest
+pydantic
+jsonschema
+playwright
+selenium
+pytest-playwright

@@ -1,0 +1,9 @@
+Q1.You are leading a team of 4 QA engineers. The sprint velocity is dropping due to flaky automation tests. How will you handle this situation?
+
+Ans: I’d first pause and stabilize flaky tests by identifying root causes (environment, waits, data issues). Then, prioritize fixing or quarantining unstable scripts, introduce robust coding practices (explicit waits, better locators, CI monitoring), and assign ownership of test modules across the team. Finally, add review checkpoints and continuous feedback so automation supports velocity instead of blocking it.
+
+
+Q2.During production release, you find 2 critical bugs reported by the client that were missed in QA. What’s your approach to fix gaps in process and testing?
+
+Ans: analyze the gap, improve coverage,- Enhancing regression suites
+    tighten reviews, and reinforce automation + exploratory testing.
